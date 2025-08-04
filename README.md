@@ -25,4 +25,4 @@ This repository contains the 3 tasks completed during my Data Analytics Internsh
 ---
 
 ## 🔗 Connect with me
-LinkedIn: [Your LinkedIn Link]
+LinkedIn: https://www.linkedin.com/in/sandeep-solanki-0baab0221/
